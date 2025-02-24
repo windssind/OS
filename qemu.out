@@ -1,0 +1,12 @@
+LD -> build/kernel/kernel
+CREATE -> build/kernel/kernel.img
+OK: Kernel is 31024 bytes - Extended to 255 sectors
+CREATE -> build/os.img
+WARNING: Image format was not specified for 'build/os.img' and probing guessed raw.
+         Automatically detecting the format is dangerous for raw images, write operations on block 0 will be restricted.
+         Specify the 'raw' format explicitly to remove the restrictions.
+
+Hello from OS!
+$ cat words.txt | grep hello
+hello world
+qemu-system-i386: terminating on signal 15 from pid 23493 (make)

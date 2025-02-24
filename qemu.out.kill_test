@@ -1,0 +1,15 @@
+
+Hello from OS!
+$ killtest
+Main process (PID: 2) starts running.
+Process (PID: 3) is running and will try to kill itself...
+Child process (PID: 5) waiting for kill...
+Parent process (PID: 4) trying to kill child (PID: 5)
+The child process (PID: 5) is killed
+Child process (PID: 5) killed by signal 9
+Main process (PID: 2) finished.
+$ echo OK
+echo
+ form son bfffffac
+ form daddy bfffffac
+$ qemu-system-i386: terminating on signal 15 from pid 4407 (make)

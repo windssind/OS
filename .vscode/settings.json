@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "proc.h": "c",
+        "sem.h": "c",
+        "random": "c",
+        "*.tcc": "c",
+        "file.h": "c",
+        "ulib.h": "c"
+    }
+}

@@ -1,0 +1,14 @@
+
+Hello from OS!
+$ join_compute
+create_threads end
+result++
+result++
+result++
+result++
+Total sum calculated by threads: 84
+$ echo OK
+echo
+ form son bfffffac
+ form daddy bfffffac
+$ qemu-system-i386: terminating on signal 15 from pid 4463 (make)

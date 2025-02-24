@@ -1,0 +1,11 @@
+
+Hello from OS!
+$ thread_args
+Hello, world!
+This is a test for thread with args.
+OK, thread_args is passed.
+$ echo OK
+echo
+ form son bfffffac
+ form daddy bfffffac
+$ qemu-system-i386: terminating on signal 15 from pid 4324 (make)
