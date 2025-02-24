@@ -1,0 +1,11 @@
+
+Hello from OS!
+$ thread_wait
+thread_wait begins.
+wait_retuslt = 0
+thread_wait passed.
+$ echo OK
+echo
+ form son bfffffac
+ form daddy bfffffac
+$ qemu-system-i386: terminating on signal 15 from pid 4294 (make)

@@ -1,0 +1,6 @@
+
+Hello from OS!
+$ fifotest3
+FIFO speed test begins.
+Reader received wrong message. Expected: "Message from writer process! No: 3", but got: "Message from writer proMessage from"
+qemu-system-i386: terminating on signal 15 from pid 38227 (make)

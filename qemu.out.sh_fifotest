@@ -1,0 +1,17 @@
+
+Hello from OS!
+$ mkfifo myfifo
+$ echo Another message > myfifo
+$ cat < myfifo
+Another message
+$ echo Writing more to FIFO > myfifo
+$ echo Reading more from FIFO > myfifo
+$ cat < myfifo
+Writing more to FIFO
+Reading more from FIFO
+$ rm myfifo
+$ ls myfifo
+ls: cannot open myfifo
+$ echo OK
+OK
+$ qemu-system-i386: terminating on signal 15 from pid 38336 (make)

@@ -1,0 +1,19 @@
+
+Hello from OS!
+$ thread_exec
+Main process (PID: 2) started.
+Thread (TID: 3) in process (PID: 4) running...
+be here
+echo
+ form daddy bfffff9c
+ form son bfffff9c
+Main thread (TID: 6) in process (PID: 6) running...
+echo
+ form son bfffff9c
+ form daddy bfffff9c
+Main process (PID: 2) finished.
+$ echo OK
+echo
+ form son bfffffac
+ form daddy bfffffac
+$ qemu-system-i386: terminating on signal 15 from pid 4369 (make)

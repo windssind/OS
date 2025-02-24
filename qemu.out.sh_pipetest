@@ -1,0 +1,5 @@
+
+Hello from OS!
+$ cat words.txt | grep hello
+hello world
+qemu-system-i386: terminating on signal 15 from pid 38089 (make)
